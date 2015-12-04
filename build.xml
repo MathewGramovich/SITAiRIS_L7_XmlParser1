@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project name="SITAiRIS_L7_XmlParser" default="all" >
+
+        <target name="clear" description="clear classes path" >
+                <delete dir="build/classes" />
+        </target>
+
+        <target name="make_dirs" description="Make some dirs">
+                <mkdir dir="build"/>
+                <mkdir dir="build/classes"/>
+        </target>
+
+        <target name="compile" description="compile java" depends="clear,make_dirs">
+                <javac destdir="build/classes">
+                        <src path="src"/>
+                </javac>
+        </target>
+
+        <target name="make_jar" description="make jar file" depends="compile">
+                <jar destfile="build/DOMParser.jar">
+                        <manifest>
+                                <attribute name="Main-class" value="test.BankService" />
+                        </manifest>
+                        <fileset dir="build/classes">
+                                <include name="**/*.class"/>
+                        </fileset>
+                </jar>
+        </target>
+
+        <target name="all" description="Do the build" depends="make_jar"/>
+
+        <target name="run" description="run project">
+                <java jar="build/DOMParser.jar" fork="true" />
+        </target>
+</project>

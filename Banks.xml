@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8" standalone = "no"?>
+<banks>
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>BelaruskiNarodnyBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Matvey</depositor>
+			<account-Id>id1</account-Id>
+			<amount-On-Deposit>75000</amount-On-Deposit>
+			<profitability>25</profitability>
+			<time-Constraints>2015-10-09</time-Constraints>
+		</deposit>
+	</bank>
+	
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>BelarusBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Ivan</depositor>
+			<account-Id>id2</account-Id>
+			<amount-On-Deposit>75000</amount-On-Deposit>
+			<profitability>25</profitability>
+			<time-Constraints>2015-11-25</time-Constraints>
+		</deposit>
+	</bank>
+	
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>BelInvestBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Yana</depositor>
+			<account-Id>id3</account-Id>
+			<amount-On-Deposit>175000</amount-On-Deposit>
+			<profitability>35</profitability>
+			<time-Constraints>2015-10-09</time-Constraints>
+		</deposit>
+	</bank>
+
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>BelInvestBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Anya</depositor>
+			<account-Id>id4</account-Id>
+			<amount-On-Deposit>175000</amount-On-Deposit>
+			<profitability>35</profitability>
+			<time-Constraints>2015-10-14</time-Constraints>
+		</deposit>
+	</bank>
+	
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>BPSBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Gennadiy</depositor>
+			<account-Id>id5</account-Id>
+			<amount-On-Deposit>5000</amount-On-Deposit>
+			<profitability>10</profitability>
+			<time-Constraints>2015-11-25</time-Constraints>
+		</deposit>
+	</bank>
+	
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>BelarusBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Luba</depositor>
+			<account-Id>id6</account-Id>
+			<amount-On-Deposit>225000</amount-On-Deposit>
+			<profitability>45</profitability>
+			<time-Constraints>2015-12-28</time-Constraints>
+		</deposit>
+	</bank>
+	
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>BelarusBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Luba</depositor>
+			<account-Id>id7</account-Id>
+			<amount-On-Deposit>225000</amount-On-Deposit>
+			<profitability>45</profitability>
+			<time-Constraints>2015-12-28</time-Constraints>
+		</deposit>
+	</bank>
+	
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>BelarusBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Vladimir</depositor>
+			<account-Id>id8</account-Id>
+			<amount-On-Deposit>466000</amount-On-Deposit>
+			<profitability>45</profitability>
+			<time-Constraints>2015-12-28</time-Constraints>
+		</deposit>
+	</bank>
+	
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>BelarusBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Slava</depositor>
+			<account-Id>id9</account-Id>
+			<amount-On-Deposit>777000</amount-On-Deposit>
+			<profitability>45</profitability>
+			<time-Constraints>2015-12-31</time-Constraints>
+		</deposit>
+	</bank>
+	
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>BelarusBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Evgeniya</depositor>
+			<account-Id>id10</account-Id>
+			<amount-On-Deposit>10000</amount-On-Deposit>
+			<profitability>38</profitability>
+			<time-Constraints>2016-02-25</time-Constraints>
+		</deposit>
+	</bank>
+	
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>BPSBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Alexander</depositor>
+			<account-Id>id11</account-Id>
+			<amount-On-Deposit>894500</amount-On-Deposit>
+			<profitability>24</profitability>
+			<time-Constraints>2015-09-30</time-Constraints>
+		</deposit>
+	</bank>
+	
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>VTBBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Alexei</depositor>
+			<account-Id>id12</account-Id>
+			<amount-On-Deposit>145680</amount-On-Deposit>
+			<profitability>33</profitability>
+			<time-Constraints>2015-10-30</time-Constraints>
+		</deposit>
+	</bank>
+	
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>VTBBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Viktor</depositor>
+			<account-Id>id13</account-Id>
+			<amount-On-Deposit>145680</amount-On-Deposit>
+			<profitability>33</profitability>
+			<time-Constraints>2015-10-30</time-Constraints>
+		</deposit>
+	</bank>
+	
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>VTBBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Nikita</depositor>
+			<account-Id>id14</account-Id>
+			<amount-On-Deposit>145777</amount-On-Deposit>
+			<profitability>34</profitability>
+			<time-Constraints>2015-12-30</time-Constraints>
+		</deposit>
+	</bank>
+		
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>BelInvestBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Nikita</depositor>
+			<account-Id>id15</account-Id>
+			<amount-On-Deposit>145777</amount-On-Deposit>
+			<profitability>34</profitability>
+			<time-Constraints>2015-12-30</time-Constraints>
+		</deposit>
+	</bank>	
+	
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>BankBelWEB</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Nikita</depositor>
+			<account-Id>id16</account-Id>
+			<amount-On-Deposit>145777</amount-On-Deposit>
+			<profitability>34</profitability>
+			<time-Constraints>2015-12-30</time-Constraints>
+		</deposit>
+	</bank>
+	
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>BelAgroPromBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Vasily</depositor>
+			<account-Id>id17</account-Id>
+			<amount-On-Deposit>210000</amount-On-Deposit>
+			<profitability>40</profitability>
+			<time-Constraints>2016-05-05</time-Constraints>
+		</deposit>
+	</bank>
+	
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>BelAgroPromBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Vasily</depositor>
+			<account-Id>id18</account-Id>
+			<amount-On-Deposit>350000</amount-On-Deposit>
+			<profitability>45</profitability>
+			<time-Constraints>2016-06-25</time-Constraints>
+		</deposit>
+	</bank>
+	
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>BelAgroPromBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Alex</depositor>
+			<account-Id>id19</account-Id>
+			<amount-On-Deposit>750000</amount-On-Deposit>
+			<profitability>35</profitability>
+			<time-Constraints>2016-10-10</time-Constraints>
+		</deposit>
+	</bank>
+	
+	<bank>
+		<country>Belarus</country>
+		<name-Bank>BelAgroPromBank</name-Bank>
+		<deposit typeDeposit = "rollup">
+			<depositor>Andrew</depositor>
+			<account-Id>id20</account-Id>
+			<amount-On-Deposit>950000</amount-On-Deposit>
+			<profitability>35</profitability>
+			<time-Constraints>2016-11-11</time-Constraints>
+		</deposit>
+	</bank>
+</banks>
